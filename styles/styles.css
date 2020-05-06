@@ -1,0 +1,19 @@
+/***********************TAG SELECTORS ****************************************/
+iframe {
+  border: 0px;
+}
+
+body {
+  font-family: Raleway, sans-serif;
+}
+
+.logodiv {
+  margin: 0 auto;
+}
+
+.logoimg {
+  width: 400px;
+  position: relative;
+  left: -20px;
+  display: block;
+}
